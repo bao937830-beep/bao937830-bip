@@ -1,5 +1,5 @@
 # bao937830-bip
-## 👋 Hi, I'm Ngyen Bao
+## 👋 Hi, I'm Nguyen Bao
 
 I am currently learning *Data Analytics* and aiming to become a *Data Analyst*.
 
